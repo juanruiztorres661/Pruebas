@@ -1,4 +1,4 @@
 Pruebas
 =======
 
-pruebas githu.
+pruebas github.
